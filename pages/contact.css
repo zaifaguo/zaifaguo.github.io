@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+    width: 95%;
+    margin: 0 auto;
+    z-index: 10;
+}
+label,
+button {
+    font-family: Ubuntu;
+    font-size: 20px;
+    text-align: center;
+}
+.contact {
+    display: block;
+    text-align: center;
+    height: 680px;
+    width: 100%;
+    font-family: Arial, sans-serif;
+    font-size: large;
+    color: white;
+}
+.input {
+    width: 50%;
+    height: 40px;
+}
+textarea {
+    width: 50%;
+    height: 480px;
+}
+.button {
+    width: 70px;
+    height: 40px;
+}
