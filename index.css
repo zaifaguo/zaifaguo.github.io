@@ -1,9 +1,15 @@
-p {
-    font-size: 22px;
+h1 {
+    font-size: 3vw;
+    text-align: left;
 }
 h2 {
+    font-size: 2vw;
     text-align: center;
 }
+p {
+    font-size: 1.5vw;
+}
+
 body {
     background-color: white;
     width: 95%;
@@ -39,9 +45,9 @@ body {
 }
 .mePhoto{
     display: block;
+    width: 12%;
     margin-left: auto;
     margin-right: auto;
-    max-height: 220px;
 }
 .box{
     background: white;
@@ -54,12 +60,12 @@ body {
     display: none;
 }*/
 .box1{
-    width: 400px;
+    width: 30%;
     margin-left: 3%;
-    height: 650px;
+    height: auto;
     background: #eff7fa;
     display: inline-block;/*行内块元素*/
 }
 .boxImg{
-    max-width: 400px;
+    max-width: 100%;
 }
