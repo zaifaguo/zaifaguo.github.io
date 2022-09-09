@@ -1,12 +1,12 @@
 body {
-    background-color: black;
+    background-color: white;
     width: 95%;
     margin: 0 auto;
     z-index: 10;
 }
 label,
 button {
-    font-family: Ubuntu;
+    font-family: ZCOOLKuaiLe;
     font-size: 20px;
     text-align: center;
 }
@@ -15,9 +15,9 @@ button {
     text-align: center;
     height: 680px;
     width: 100%;
-    font-family: Arial, sans-serif;
+    font-family: ZCOOLKuaiLe;
     font-size: large;
-    color: white;
+    color: black;
 }
 .input {
     width: 50%;

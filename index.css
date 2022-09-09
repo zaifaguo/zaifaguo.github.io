@@ -1,5 +1,8 @@
+p {
+    font-size: 22px;
+}
 body {
-    background-color: black;
+    background-color: white;
     width: 95%;
     margin: 0 auto;
     z-index: 10;
@@ -8,8 +11,37 @@ body {
     overflow: hidden;
     height: 618px;
 }
+.acceuil {
+    width: 100%;
+    margin:0 auto;
+    overflow:hidden;
+}
+.news {
+    width: 75%;
+    /*height:430px;*/
+    background-color:white;
+    float:left;
+    padding: 5%;
+}
+.profil {
+    width: 20%;
+    height: auto;
+    float:right;
+    text-align: center;
+    /*padding: 80px 10px 0px 0px;*/
+}
+.aboutMe {
+    display: block;
+    width: auto;
+}
+.mePhoto{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-height: 220px;
+}
 .box{
-    background: grey;
+    background: white;
     padding: 10px 0;
     white-space: nowrap;/*文本不会换行，文本会在在同一行上继续*/
     overflow-y:auto;/*可滑动*/
@@ -21,7 +53,7 @@ body {
 .box1{
     width: 49%;
     margin-left: 3%;
-    height: 600px;
-    background: black;
+    height: 800px;
+    background: #eff7fa;
     display: inline-block;/*行内块元素*/
 }
