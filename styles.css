@@ -3,11 +3,11 @@
     src: url(./ZCOOLKuaiLe.ttf);
 }
 /*logo*/
-header {
+.part1 {
     background-color: white;
     width: 88%;
     height: 10px;
-    margin: 0 auto;
+    margin: 20px auto;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -29,8 +29,7 @@ h1 {
     color: black;
 }
 h2 {
-    font-size: 22px;
-    text-align: left;
+    font-size: 40px;
     font-family: ZCOOLKuaiLe;
     color: black;
 }
