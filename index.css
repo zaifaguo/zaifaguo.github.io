@@ -1,14 +1,10 @@
 h1 {
-    font-size: 3vw;
     text-align: left;
 }
 h2 {
-    font-size: 2vw;
     text-align: center;
 }
-p {
-    font-size: 1.5vw;
-}
+
 
 body {
     background-color: white;

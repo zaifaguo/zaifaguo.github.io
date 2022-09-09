@@ -1,11 +1,12 @@
+h1 {
+    text-align: center;
+}
 body {
     background-color: white;
     width: 95%;
     margin: 0 auto;
     z-index: 10;
 }
-
 .part2 {
-    list-style-type: none;
-    text-align: left;
+    width: 80%;
 }

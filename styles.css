@@ -5,10 +5,12 @@
 }
 h1 {
     font-family: ZCOOLKuaiLe;
+    font-size: 3vw;
     color: black;
 }
 h2 {
     font-family: ZCOOLKuaiLe;
+    font-size: 2vw;
     color: black;
 }
 h4 {
@@ -19,6 +21,7 @@ h4 {
 p {
     text-align: left;
     font-family: ZCOOLKuaiLe;
+    font-size: 1.5vw;
     color: black;
 }
 
