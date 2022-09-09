@@ -1,7 +1,27 @@
+/*police*/
 @font-face {
     font-family: ZCOOLKuaiLe;
     src: url(./ZCOOLKuaiLe.ttf);
 }
+h1 {
+    font-family: ZCOOLKuaiLe;
+    color: black;
+}
+h2 {
+    font-family: ZCOOLKuaiLe;
+    color: black;
+}
+h4 {
+    font-family: ZCOOLKuaiLe;
+    font-size: 1vw;
+    color: black;
+}
+p {
+    text-align: left;
+    font-family: ZCOOLKuaiLe;
+    color: black;
+}
+
 /*logo*/
 .part1 {
     background-color: white;
@@ -18,25 +38,7 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
-    max-height: 48px;
-    /*width: 25%;*/
-}
-
-/*police*/
-h1 {
-    font-size: 48px;
-    font-family: ZCOOLKuaiLe;
-    color: black;
-}
-h2 {
-    font-size: 40px;
-    font-family: ZCOOLKuaiLe;
-    color: black;
-}
-p {
-    text-align: left;
-    font-family: ZCOOLKuaiLe;
-    color: black;
+    width: 13vw;
 }
 
 /*menu*/
@@ -107,9 +109,4 @@ footer {
     margin: 0 auto;
     height: 22px;
     text-align: right;
-}
-h4 {
-    font-family: ZCOOLKuaiLe;
-    font-size: 16px;
-    color: black;
 }
