@@ -1,6 +1,9 @@
 p {
     font-size: 22px;
 }
+h2 {
+    text-align: center;
+}
 body {
     background-color: white;
     width: 95%;
@@ -11,28 +14,28 @@ body {
     overflow: hidden;
     height: 618px;
 }
-.acceuil {
+.part2 {
     width: 100%;
     margin:0 auto;
     overflow:hidden;
 }
 .news {
-    width: 75%;
+    width: 80%;
     /*height:430px;*/
     background-color:white;
     float:left;
-    padding: 5%;
+    padding: 20px;
 }
 .profil {
     width: 20%;
     height: auto;
     float:right;
     text-align: center;
-    /*padding: 80px 10px 0px 0px;*/
+    padding: 80px 20px 0px 0px;
 }
 .aboutMe {
     display: block;
-    width: auto;
+    width: 100%;
 }
 .mePhoto{
     display: block;
@@ -51,9 +54,12 @@ body {
     display: none;
 }*/
 .box1{
-    width: 49%;
+    width: 400px;
     margin-left: 3%;
-    height: 800px;
+    height: 650px;
     background: #eff7fa;
     display: inline-block;/*行内块元素*/
+}
+.boxImg{
+    max-width: 400px;
 }
